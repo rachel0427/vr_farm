@@ -15,5 +15,5 @@ A simple farm scene with a cozy house, colorful trees, cute chickens, crops, and
 
 2. Connect your headset
 
-3. Download the build15.apk file and drag it into Oculus Developer Hub
+3. Download the apk file (https://drive.google.com/file/d/1xK9o2OEZ2kdkqtyPtswKBfll5miz2af-/view?usp=sharing) and drag it into Oculus Developer Hub
 
